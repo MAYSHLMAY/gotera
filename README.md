@@ -1,6 +1,14 @@
-# 🌾 Gotera – Fresh Produce Marketplace
-
-Gotera is a digital marketplace connecting **farmers**, **buyers**, and **transporters** in one seamless platform. Farmers list their fresh produce, buyers place orders, and transporters handle deliveries – all powered by Next.js, Supabase, and Africa's Talking.
+# 🌾 ጎተራ Gotera — Farm to Business Marketplace
+The Problem
+Every day, tonnes of fresh produce rot at Atkelt Tera while hotels and supermarkets in Addis Ababa overpay middlemen for the same food. Farmers earn less. Buyers pay more. And nobody wins.
+# What We Built
+Gotera is a direct farm-to-business marketplace that connects Ethiopian farmers with commercial buyers — hotels, supermarkets, and restaurants — cutting out the chaos of traditional markets entirely.
+The result: fresher produce, fairer prices, and dramatically less waste.
+# How It Works
+Farmer lists harvest → Buyer places order → Driver picks up → Fresh food delivered
+No middlemen. No Atkelt Tera. No spoilage.
+# Who It's For
+UserHow they use Gotera🧑‍🌾 FarmersList available harvest, set prices, accept orders🏨 Hotels & SupermarketsBrowse fresh produce, order directly from farms🚚 Transport driversPick up confirmed orders and earn per delivery
 
 ## 🚀 Tech Stack
 
