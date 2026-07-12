@@ -53,7 +53,7 @@ UserHow they use Gotera🧑‍🌾 FarmersList available harvest, set prices, ac
    ```bash
    npm run dev
    ```
-   Open [http://localhost:3000](https://gotera-six.vercel.app/) to view the app.
+   Open (https://gotera-six.vercel.app/) to view the app.
 
 ## 🧪 Building for Production
 
